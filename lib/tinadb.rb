@@ -1,3 +1,6 @@
 # frozen_string_literal: true
+require "tinadb/version"
 
-class Tinadb; end
+module Tinadb
+  class << self; end
+end
