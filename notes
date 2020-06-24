@@ -1,0 +1,7 @@
+AWS:
+  carrierwave
+  fog-aws
+  aws-sdk-s3
+
+Serializing objects:
+  checks alternatives to `.as_json` (maybe bytestreams)
